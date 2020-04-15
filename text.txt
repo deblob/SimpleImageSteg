@@ -1,0 +1,1 @@
+If you are reading this text in output.txt, everything worked.
